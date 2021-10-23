@@ -48,4 +48,4 @@ leg.get_frame().set_alpha(1)
 
 plt.show()
 
-fig.savefig("Python\\sample\\test_FFT.png", bbox_inches="tight", pad_inches=0.05)
+fig.savefig("test_FFT.png", bbox_inches="tight", pad_inches=0.05)
